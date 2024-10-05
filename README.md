@@ -1,16 +1,26 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/33199d10-7109-4910-b0f3-14df6c7da8ee)
 
-<!--
-**claire10hughes/claire10hughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Education** #
 
-Here are some ideas to get you started:
+[Ursinus College](https://www.ursinus.edu/) - Bachelors of Arts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Drexel University](https://drexel.edu/) - MLIS Student
+
+# **Work** #
+
+I currently work in Development at the [Institute for Basic Biomedical Sciences](https://www.hopkinsmedicine.org/institute-basic-biomedical-sciences) at Johns Hopkins University
+
+# **Interests** #
+
+Writing, theater, comedy, having free time lol
+
+# **Dataset that I think is neat** #
+
+[Allen Institute Brain Map ](https://portal.brain-map.org/)
+
+This database provides a wealth of knowledge of the different areas of the brain and their functions down to a molecular level. 
+
+#  Why I like It  #
+One of the departments that I support in my job is Neuroscience - so I have seen the good work being done by Neuroscientists
+
+My mother's life was saved by a Neurosurgeon, and I will be eternally grateful
