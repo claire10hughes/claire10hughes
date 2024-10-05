@@ -24,3 +24,7 @@ This database provides a wealth of knowledge of the different areas of the brain
 One of the departments that I support in my job is Neuroscience - so I have seen the good work being done by Neuroscientists
 
 My mother's life was saved by a Neurosurgeon, and I will be eternally grateful
+
+# **Topic/Respository I Found** #
+
+Inspired by my constant need for free time and the always being on the presipice of burn-out, I found this great repository that has a plethora of resources all about mental health - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health)
